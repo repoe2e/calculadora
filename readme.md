@@ -14,7 +14,7 @@ Este é um projeto de uma calculadora simples desenvolvido como parte do treinam
 1. Clone o repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/calculadora-e2e-treinamentos.git
+    git clone https://github.com/repoe2e/calculadora.git
     ```
 
 2. Navegue até o diretório do projeto:
