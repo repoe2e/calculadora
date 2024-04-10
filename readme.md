@@ -19,7 +19,7 @@ Este é um projeto de uma calculadora simples desenvolvido como parte do treinam
 
 2. Buildar aplicação localmente
    ```bash
-    git clone https://github.com/repoe2e/calculadora.git
+    mvn clean install
     ```
 
 3. Navegue até o diretório do projeto:
