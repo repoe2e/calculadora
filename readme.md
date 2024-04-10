@@ -12,15 +12,20 @@ Este é um projeto de uma calculadora simples desenvolvido como parte do treinam
 ## Instalação
 
 1. Clone o repositório para sua máquina local:
-
-    ```bash
+   
+ ```bash
     git clone https://github.com/repoe2e/calculadora.git
     ```
 
-2. Navegue até o diretório do projeto:
+2. Buildar aplicação localmente
+   ```bash
+    git clone https://github.com/repoe2e/calculadora.git
+    ```
+
+3. Navegue até o diretório do projeto:
 
     ```bash
-    cd calculadora-e2e-treinamentos
+    cd Calculadora
     ```
 
 ## Execução do Projeto
