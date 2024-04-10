@@ -17,15 +17,15 @@ Este é um projeto de uma calculadora simples desenvolvido como parte do treinam
     git clone https://github.com/repoe2e/calculadora.git
     ```
 
-2. Buildar aplicação localmente
-   ```bash
-    mvn clean install
-    ```
-
-3. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 
     ```bash
     cd Calculadora
+    ```
+
+3. Buildar aplicação localmente
+   ```bash
+    mvn clean install
     ```
 
 ## Execução do Projeto
