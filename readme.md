@@ -8,6 +8,7 @@ Este é um projeto de uma calculadora simples desenvolvido como parte do treinam
 
 - Java Development Kit (JDK) 8 ou superior
 - Apache Maven
+- Configurar as variáveis de ambiente
 
 ## Instalação
 
